@@ -1,3 +1,7 @@
+<!-- Created by Mówiła że ma 16#1616 -->
+<!-- Created by Mówiła że ma 16#1616 -->
+<!-- Created by Mówiła że ma 16#1616 -->
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MVE</h1>
@@ -6,7 +10,7 @@
 
 ## 😜 About me
 
-- 🔭 I’m currently working on **[Website](https://cybermve.eu)**
+- 🔭 I’m currently working on **[Website](https://cybermve.eu)** 
 
 - 🌱 I’m currently learning **Data Structures.**
 
@@ -38,6 +42,7 @@
 
   <br/>
     <a href="https://github.com/CyberMVE/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CyberMVE&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
   <a href="https://github.com/CyberMVE/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberMVE&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -53,6 +58,10 @@
 <a href = "https://twitter.com/subhamraoniar"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<br/>
+
+## Spotify Playing 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=b4xsz18q927t1kqpf97z9yyct&cover_image=true&theme=default&bar_color=3700ff)](https://github.com/kittinan/spotify-github-profile)
 
 
 </p>
